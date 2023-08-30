@@ -3,11 +3,14 @@ margin: 0px;
 }
 
 header{
-    background-color: lightpink;
+    background-color: #f7ffee;
     display: flex;
     justify-content: space-between;
     padding: 0px 10vw;
     align-items: center;
+}
+header img{
+    height: 100px;
 }
 header ul{
     display: flex;
@@ -17,7 +20,7 @@ header ul{
 header ul li a{
     padding: 15px;
     text-decoration: none;
-    color: white;
-    border: 1px solid hotpink;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
 
 }

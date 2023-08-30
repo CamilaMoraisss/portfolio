@@ -1,5 +1,0 @@
-
-
-use("camila");
-db.dropDatabase();
-

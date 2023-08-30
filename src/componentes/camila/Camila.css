@@ -1,0 +1,27 @@
+.filme-content{
+    min-width: 300px;
+    min-height: 200px;
+    background-color: antiquewhite;
+}
+
+.filme-content>img{
+    width: 300px;
+    height: auto;
+}
+.bg{
+    height: 1000px;
+}
+.textobg{
+    height: 1000px;
+    width: 1250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+p {
+    font-size: 22px;
+    margin: auto;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
