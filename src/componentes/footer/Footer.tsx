@@ -13,7 +13,7 @@ return(
     <img className= "loguinho" src= {LogoCamila} alt ="" />
     <p className='p'> Aqui você encontra tudo sobre mim.<br />
     Me conheça melhor e também <br /> 
-    todos os serviços que disponibilizo!</p>
+    meus projetos e todos os serviços que disponibilizo!</p>
         <div className = "socialmedia"> 
             <img className = 'facebook' src = {Facebook} alt="facebook" />
             <img className = 'insta' src= {Instagram} alt="youtube"/>

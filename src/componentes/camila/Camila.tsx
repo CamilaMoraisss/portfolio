@@ -13,7 +13,15 @@ function Camila(){
             Penso que em todo momento há a oportunidade de <br /> crescer, mudar, recomeçar e ser restaurado, basta você querer. <br />
             Prazer, Camila Morais.</p>
             </div>
+            <div>
+            <p className='projetos'> Categorias de vivência!</p>
+
+            <div className=''>
+
+            </div>
+            </div>
         </div>
+        
     )
           
 }

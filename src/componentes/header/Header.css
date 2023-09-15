@@ -1,5 +1,6 @@
 body{
 margin: 0px;
+font-family: "Sora", "sans-serif";
 }
 
 header{
@@ -21,6 +22,7 @@ header ul li a{
     padding: 15px;
     text-decoration: none;
     color: rgb(0, 0, 0);
-    border: 1px solid rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
 
 }
